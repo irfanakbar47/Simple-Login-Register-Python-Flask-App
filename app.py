@@ -18,7 +18,7 @@ print(d4)
 app = Flask(__name__)
 
 #logging.basicConfig(level=logging.DEBUG)
-#logging.basicConfig(level = logging.INFO, filename = d4)
+logging.basicConfig(level = logging.INFO, filename = d4)
 
 #logging.info("A Info Logging Message")
 #logging.debug('"A Debug Logging Message"')
@@ -89,5 +89,3 @@ def register():
     return render_template('register.html', msg = msg)
 
 app.run()
-
-
