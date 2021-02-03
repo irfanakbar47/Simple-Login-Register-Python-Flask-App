@@ -12,13 +12,13 @@ class FlaskTest(unittest.TestCase):
 
 	def test_index1(self):
                 tester1 = app.test_client(self)
-                response = tester1.get('/logout', content_type='html/text')
+                response = tester1.get('/login', content_type='html/text')
                 self.assertEqual(response.status_code, 200)
 
-	def test_login():
-		response = make_response()
-		login_user(session.query(User).get(1234))
-		 return response
+	#def test_login():
+	#	response = make_response()
+	##	login_user(session.query(User).get(1234))
+	#	 return response
 
 
 	#def test_valid_user_login(self):
