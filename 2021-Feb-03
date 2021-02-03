@@ -1,0 +1,59 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:12:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:12:47] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:12:55] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:13:00] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:13:00] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:13:03] "[37mGET /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:13:18] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:16:02] "[37mGET /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:16:16] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:16:34] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:16:48] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:17:07] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:17:24] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:17:56] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:18:17] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:19:05] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:20:17] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:20:30] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:20:32] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:20:39] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:20:39] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:21:25] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:46:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:46:13] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 01:46:16] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:46:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:46:34] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:46:35] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:46:37] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:46:37] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:49:56] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:49:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:49:57] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:54:06] "[37mGET /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:54:25] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Feb/2021 02:54:45] "[37mPOST /register HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

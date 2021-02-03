@@ -1,4 +1,3 @@
-
 # APP
 from flask import Flask, render_template, request, redirect, url_for, session
 from flask_mysqldb import MySQL
@@ -9,7 +8,7 @@ import logging
 from datetime import date
 
 today = date.today()
-# Month abbreviation, day and year      
+# Month abbreviation, day and year
 d4 = today.strftime("%Y-%b-%d")
 print(d4)
 
@@ -50,6 +49,7 @@ def login():
             session['id'] = account['id']
             session['username'] = account['username']
             msg = 'Logged in successfully !'
+
             return render_template('index.html', msg = msg)
         else:
             msg = 'Incorrect username / password !'
