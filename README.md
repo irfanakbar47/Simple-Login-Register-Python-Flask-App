@@ -9,7 +9,7 @@ $ sudo apt-get update
 2) installing pip3 for application package manager
 $ sudo apt-get -y install python3-pip
 
-3) install mysql 5.7
+3) install mysql 5.7 and other things
 $ wget http://repo.mysql.com/mysql-apt-config_0.8.9-1_all.deb
 $ sudo dpkg -i mysql-apt-config_0.8.9-1_all.deb
 
