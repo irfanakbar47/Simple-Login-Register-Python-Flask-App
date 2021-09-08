@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #This line is from ticket1
+=======
+#This commit is from ticket2
+>>>>>>> ticket2
 # onebyteproject
 # Python Web App Login Registration 
 First of all requirements 
