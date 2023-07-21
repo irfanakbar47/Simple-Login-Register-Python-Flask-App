@@ -4,7 +4,7 @@ FROM python:3.8.5-alpine
 RUN apk add --no-cache python3-dev
 RUN apk add py3-pip \
 	&& pip3 install --upgrade pip
-RUN apk pip install pygame --pre
+#RUN apk pip install pygame --pre
 
 WORKDIR /app
 COPY . /app
