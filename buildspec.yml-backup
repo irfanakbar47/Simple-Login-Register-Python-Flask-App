@@ -5,9 +5,9 @@ phases:
     commands:
       - echo Logging in to Amazon ECR...
       - aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/testingdcoker
+      - IMAGE_TAG=${COMMIT_HASH:=latest}
       - REPOSITORY_URI=$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/testingdcoker
       - IMAGE_REPO_NAME=testingdcoker
-      - IMAGE_TAG=${IMAGE_REPO_NAME}:${CODEBUILD_SOURCE_VERSION}
   build:
     commands:
       - echo Build started on `date`
